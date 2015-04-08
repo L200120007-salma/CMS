@@ -3,9 +3,9 @@
 }
 
 .header {
-	border:1px solid blue;
-	background-color : blue;
-	color:white;
+	border:1px solid black;
+	background-color : #ADE8E6;
+	color:black;
 	font-weight: bold;
 	font-size: 35px;
 	padding: 35px 10px;
@@ -27,8 +27,8 @@
 
 .footer{
 	text-align: center;
-	background: blue;
-	color: yellow;
+	background: #ADE8E6;
+	color: black;
 	padding: 21px 3px;
 }
 .clear {

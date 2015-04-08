@@ -1,6 +1,9 @@
 <?
 require_once ('includes/templateFunction.php');
 $tmpl = new templateFunction ();
-$tmpl -> show();
+$tmpl->setWidget('logoPosition', 'logo');
+$tmpl->setWidget('sidebarPosition', 'hello');
+$tmpl->setWidget('sidebarPosition', 'logo');
+$tmpl ->show();
 
 ?>
